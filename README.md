@@ -1,5 +1,7 @@
 # API for Quote App
 
+Hosted here: https://journal-frontend-smoky.vercel.app/
+
 How to run: `rails s` - runs on port 3000
 To run tests simply run `rspec`
 
